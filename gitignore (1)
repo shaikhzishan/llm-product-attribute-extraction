@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+
+# Experiment outputs
+experiment_results.csv
+failures.csv
+cost_log.csv
+progress.json
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# Local files
+.DS_Store
